@@ -10,3 +10,4 @@
 - [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [bitmex-scaled-orders](https://github.com/nice-table/bitmex-scaled-orders) - A front-end for creating scaled orders / bulk orders on Bitmex
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
